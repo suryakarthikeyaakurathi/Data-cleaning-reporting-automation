@@ -45,3 +45,6 @@ This project automates data cleaning and reporting workflows using Python and Po
 - Power BI dashboard
 - Dashboard screenshots
 - Project report
+
+## Dashboard preview
+<img width="960" height="543" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/66389e10-df86-45af-9577-a337e1eec742" />
